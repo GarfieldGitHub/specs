@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "BDSTTS"
-  s.version      = "0.0.1"
+  s.version      = "1.0"
   s.summary      = "BDSTTS."
   s.description  = "BDS TTS client on youshaqi"
   s.homepage     = "https://ai.baidu.com/docs#/ASR-iOS-SDK/dea30f2b"
